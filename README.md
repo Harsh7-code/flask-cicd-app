@@ -41,6 +41,15 @@ flask-cicd-app/
 
 ---
 
+## 📸 Assignment Preview
+
+### 🖥️ Final UI Output
+
+<img width="1842" height="957" alt="Screenshot from 2025-07-15 17-12-34" src="https://github.com/user-attachments/assets/f86e435b-6d23-451f-9ad2-1d304b17d67d" />
+
+---
+
+
 ## 🧪 Run Locally
 
 ```bash
@@ -58,3 +67,5 @@ pip install -r requirements.txt
 # Run the Flask app
 python app.py
 
+
+---
